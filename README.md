@@ -29,11 +29,9 @@ I welcome and encourage all pull requests. I usually take 24-48 hours to respond
 
 1.  Match the document style as closely as possible.
 2.  Please keep PR titles easy to read and descriptive of changes, this will make them easier to merge :)
-3.  Check for existing [issues](https://github.com/tsvillain/Wallbay/issues) first, before filing an issue.
 
 ### Created & Maintained By
 
-[Tekeshwar Singh](https://github.com/tsvillain) ([@tsvillain](https://www.instagram.com/tsvillain))
+[Rwema](https://github.com/tsvillain) ([@tsvillain](https://www.twitter.com/R_w_e_m_a))
 
-<a href="https://www.buymeacoffee.com/tsvillain" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
+### Happy New Year 2k23!
