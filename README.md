@@ -32,6 +32,6 @@ I welcome and encourage all pull requests. I usually take 24-48 hours to respond
 
 ### Created & Maintained By
 
-[Rwema on GitHub](https://github.com/rwema3) ([@Rwema | Twitter](https://www.twitter.com/R_w_e_m_a))
+[Rwema | GitHub](https://github.com/rwema3) ([@Rwema | Twitter](https://www.twitter.com/R_w_e_m_a))
 
 ### Happy New Year 2k23!
