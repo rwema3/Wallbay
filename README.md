@@ -21,7 +21,6 @@ Wallpaper App developed in Flutter using [Pexels API](https://www.pexels.com/api
   * fluttertoast: ^7.1.6
   
 ## Show some love ⭐ Star this Repo.
-[![GitHub stars](https://img.shields.io/github/stars/tsvillain/Wallbay.svg?style=social&label=Star)](https://github.com/tsvillain/Wallbay) [![GitHub forks](https://img.shields.io/github/forks/tsvillain/Wallbay.svg?style=social&label=Fork)](https://github.com/tsvillain/Wallbay/fork)
 
 # Pull Requests
 
