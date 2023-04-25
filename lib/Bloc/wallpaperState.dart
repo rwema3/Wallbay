@@ -6,4 +6,5 @@ class WallpaperIsLoading extends WallpaperState {}
 
 class WallpaperIsLoaded extends WallpaperState {
   final List<Wallpaper> _wallpaper;
-s
+  WallpaperIsLoaded(this._wallpaper);
+  List<Wallpaper> get getWallpaper => _wallpaper;
