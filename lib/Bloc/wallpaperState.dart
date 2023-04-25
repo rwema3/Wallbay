@@ -24,3 +24,5 @@ class SearchWallpaperIsLoaded extends WallpaperState {
   List<Wallpaper> get getSearchWallpaper => _wallpaper;
 }
 
+class CategoryWallpaperNotSearched extends WallpaperState {}
+
