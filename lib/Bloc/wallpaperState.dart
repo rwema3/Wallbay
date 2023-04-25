@@ -12,3 +12,5 @@ class WallpaperIsLoaded extends WallpaperState {
 
 class WallpaperIsNotLoaded extends WallpaperState {}
 
+class SearchWallpaperNotSearched extends WallpaperState {}
+
