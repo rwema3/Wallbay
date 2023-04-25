@@ -20,3 +20,4 @@ class SearchWallpaperIsNotLoaded extends WallpaperState {}
 
 class SearchWallpaperIsLoaded extends WallpaperState {
   final List<Wallpaper> _wallpaper;
+  SearchWallpaperIsLoaded(this._wallpaper);
