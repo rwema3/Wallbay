@@ -16,3 +16,5 @@ class SearchWallpaperNotSearched extends WallpaperState {}
 
 class SearchWallpaperIsLoading extends WallpaperState {}
 
+class SearchWallpaperIsNotLoaded extends WallpaperState {}
+
