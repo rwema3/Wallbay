@@ -4,6 +4,11 @@ abstract class WallpaperState {}
 
 class WallpaperIsLoading extends WallpaperState {}
 
+
+class CategoryWallpaperNotSearched extends WallpaperState {}
+
+class CategoryWallpaperIsLoading extends WallpaperState {}
+
 class CategoryWallpaperIsLoaded extends WallpaperState {
   final List<Wallpaper> _wallpaper;
   CategoryWallpaperIsLoaded(this._wallpaper);
